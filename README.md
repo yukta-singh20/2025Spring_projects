@@ -51,4 +51,4 @@ Hypothesis to Nominal Comparison:
 
 ## Contributions
 
-Bhavana and Yukta contributed to the physics models, scientific constants, and calculations, with most of their work found in mdl_edl_simulation.py. Ankitha contributed to the overall code structure, implemented the doctests, and developed the visualizations and analysis that helped interpret and present the results, with major contributions in mars_edl_analysis.py and mars_edl_visualization.py.
+Bhavana and Yukta contributed to the physics models, equations, scientific constants, literature review, calculations, and the report/paper, with most of their work found in mdl_edl_simulation.py. Ankitha contributed to the overall code structure, implemented the doctests, and developed the visualizations and analysis, making major contributions to mars_edl_analysis.py and mars_edl_visualization.py. The results were interpreted and discussed, and the conclusion was formed by all three team members.
